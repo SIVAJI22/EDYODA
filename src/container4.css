@@ -1,0 +1,218 @@
+#container4{
+    background-color:rgb(17,40,70)	;
+    padding: 80px;
+}
+#EDYODA h1, h5{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+#EDYODA h1{
+    font-weight: 700;
+}
+
+/* .Live{
+    padding: 80px;
+    background-color: white;
+    border-radius: 2px;
+height: 350px;
+width: 380px;
+    margin-left: 100px;
+} */
+.Live img{
+
+  border-radius: 5px;
+    padding: 40px;
+    background-color: white;
+    height: 300px;
+width: 300px;
+    margin-top: 20px;
+}
+.Live{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.Live span{
+    color: black;
+    font-weight:400;
+    font-size: 20px;
+    margin-top: 50px;
+margin-left: 70px;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.bussiness{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bussiness span{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 230px;
+margin-left: -270px;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.bussiness img{
+    border-radius: 5px;
+
+    padding-bottom: 90px;
+    background-color: white;
+    height: 300px;
+width: 300px;
+    margin-top: 20px;
+}
+.Group1{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.Group1 span{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 270px;
+margin-left: -250px;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.Group1 img{
+    border-radius: 5px;
+  
+    padding-bottom: 90px;
+    background-color: white;
+    height: 300px;
+width: 300px;
+    margin-top: 20px;
+}
+.Certifi{   position: relative;
+    text-align: center;
+    color: white;
+
+}
+.Certifi span{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 50px;
+margin-left: 70px;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Certifi img{
+    border-radius: 5px;
+    padding-top: 60px;
+    background-color: white;
+    height: 300px;
+width: 300px;
+    margin-top: 20px;
+}
+.Gaming{
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+.Gaming span{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 40px;
+margin-left: 38px;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Gaming img{
+    border-radius: 5px;
+    padding-top: 60px;
+    background-color: white;
+    height: 300px;
+width: 300px;
+    margin-top: 20px;
+}
+.steup{
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+.steup span{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 260px;
+margin-left: -250px;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+}
+.steup img{
+    border-radius: 5px;
+    padding-bottom: 60px;
+    background-color: white;
+    height: 300px;
+width: 300px;
+    margin-top: 20px;
+
+}
+.explore{
+    color: black;
+}
+.explore h2{
+    color: white;
+    margin-left: 20px;
+}
+#tech{
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+#tech li{
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+
+#tech button{
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 20px;
+     margin-left: 60px;
+     opacity: 75;
+}
+#digital{
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+#digital  button{
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 20px;
+     margin-left: 60px;
+     opacity: 75; 
+}
+#digital  li{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+#LIVE{
+    padding: 100px;
+}
+#Join{
+    margin-top: -40px;
+    margin-left: 90px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#screen{
+    width: 100%;
+}

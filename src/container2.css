@@ -1,0 +1,132 @@
+
+
+#container2{
+    background-color:rgb(17,40,70)	;
+
+    padding: 80px;
+    margin-top: -40px;
+    margin-left: -14px;
+    width: 102%;
+    padding-left: 120px;
+    height: 1240px;
+}
+#container2 h1,h5{
+    color: white;
+}
+#container2 h5{
+    font-family:'Courier New', Courier, monospace;
+}
+
+#container2 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Learn{
+    position: relative;
+    width: 250px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#industry{
+    position: relative;
+   padding: 10px;
+    width: 250px;
+    margin-left: 50px;
+}
+#job{
+    position: relative;
+    width: 250px;
+    padding: 10px;
+    margin-left: 50px;
+} 
+#comp3{
+    margin-left: -20px;
+    margin-top: -40px;
+    height: 440px;
+    width: 440px;
+    border-radius: 50px 50px 50px 50px;
+}
+.p{
+    border-radius: 50px 50px 50px 50px;
+    height: 90px;
+    width: 90px;
+    padding: 8px;
+
+}
+#ellipse{
+    margin-left: 15px;
+}
+.hearten{
+ margin-top: -80px;
+}
+.usercontainer{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.usercontainer span{
+    margin-left: 10px;
+}
+#users{
+    text-shadow: 20px;
+    font-size: 80px;
+    font-weight: 700;
+word-spacing: 5px;
+font-display:2px;
+font-stretch:extra-expanded;
+    font-family:'Courier New', Courier, monospace;
+    /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif */
+}
+#users1{
+    font-size: 30px;
+    font-weight: 400;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+.edyoda{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(2, 91, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.success{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    width: 700px;
+    padding: 10px;
+    margin-top: 70px;
+
+
+}
+#analyist{
+    color: white;
+    margin-left: 100px;
+    margin-top:-20px;}
+.samantha{
+    margin-top: -80px;
+    margin-left: 100px;
+color: white;
+}
+.samantha1 {
+
+    margin-left: 30px;
+    margin-top: -10px;
+
+}
+.samantha1  img{
+    border-radius: 50px 50px 50px 50px;
+    height: 90px;
+    width: 90px;
+    margin-top: 100px;
+    padding: 8px;
+}
+#threedot1{
+    margin-left: 540px;
+}
+#threedot{
+    color: white;
+    font-weight: 800;
+
+  margin-left: 20px;
+}

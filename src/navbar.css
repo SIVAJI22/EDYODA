@@ -1,0 +1,17 @@
+
+#navbar{
+    color: white;
+ 
+}
+.courses{
+    color: white;
+}
+#login{
+    background: none;
+    color: white;
+    margin-left: -100px;
+}
+#search{
+    background-color: none;
+    margin-left: -150px;
+}

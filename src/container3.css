@@ -1,0 +1,57 @@
+.container3{
+    padding: 85px;
+    background-color:aliceblue
+
+}
+.Categories {
+    margin-left: 30px;
+}
+.Categories a:hover{
+color: black;
+text-decoration: underline;
+}
+
+.Categories a{
+flex-direction:column-reverse;
+    text-decoration: none;
+color: black;
+padding: 5px;
+margin-top: 1px;
+}
+#hr{
+
+    height: 2%;
+    margin-top: -25px;
+margin-left: -20px;
+}
+.Courses{
+    font-family:monospace;
+    font-weight: 800;
+}
+.Access{
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+#artific{
+    border-radius: 10px;
+    width: 230px;
+    margin-left: -30px;
+}
+#bb8{
+    margin-top: -20px;
+    margin-left: -80px;
+}
+.viewall{
+    margin-left: 995px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-top: -30px;
+    color: black;
+}
+#group img{
+padding:8px;
+}
+#group {
+    margin-left: 10px;
+}

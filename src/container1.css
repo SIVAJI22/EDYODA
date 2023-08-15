@@ -1,0 +1,91 @@
+
+#container1{
+    background-color:rgb(17,40,70)	;
+
+    /* rgb(18,41,71)    */
+   height: 600px;
+    /* color: 	rgb(0,0,128); */
+}
+#learn{
+    margin-top: 200px;
+    color: white;
+    font-family:sans-serif;
+    margin-left: 20px;
+ 
+}
+#learn1{
+    font-size: 60px;
+}
+#anytime{
+    
+        font-size: 33px;
+}
+#view{
+    border-radius: 20px 20px ;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border:3px solid rgb(56, 214, 193);
+}
+#join{
+    border-radius: 20px 20px ;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    font-weight: 500;
+
+}
+/* ----------companies css starts here--------- */
+#companies img{
+    
+    padding: 10px;
+    
+}
+#c{
+    height: 1000px;
+}
+
+
+#comp{
+ width: 125%;
+    margin-left: -150px;
+}
+
+/* #accenture{
+    height:60px;
+    width: 110px;
+}
+.infosys{
+    height: 70px;
+    width: 100px;
+}
+#alti{
+    height: 40px;
+    width: 140px;
+}
+#sandvine{
+    height: 80px;
+    width: 110px;
+}
+#honeywell{
+    height: 80px;
+    width: 110px;
+
+}
+#cognizant{
+    height: 50px;
+    width: 140px;
+}
+#general{
+    height: 90px;
+    width: 110px;
+}
+#campegini{
+    height: 70px;
+    width: 140px;
+
+}
+#happiest{
+    height: 70px;
+    width: 140px;
+} */
